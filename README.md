@@ -22,7 +22,7 @@
    
    (Image provided by Google Images)
    
-   Image Link - https://i.pinimg.com/564x/50/f1/a5/50f1a549940af996bd8ca4c4a919ddc2.jpg
+   [Image Link](https://i.pinimg.com/564x/50/f1/a5/50f1a549940af996bd8ca4c4a919ddc2.jpg)
   
   ## JS (JavaScript)
   
@@ -35,7 +35,7 @@
   
   (Image provided by Google Images)
   
-  Image Link - https://pluralsight.imgix.net/paths/path-icons/javascript-36f5949a45.png
+  [Image Link](https://pluralsight.imgix.net/paths/path-icons/javascript-36f5949a45.png)
   
   I wrote a post in medium on my first experience with react native - https://medium.com/magure/my-react-native-app-development-experience-e1fa11eda23b
   
@@ -43,6 +43,6 @@
   
   (Image provided by Google Images)
   
-  Image Link - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png
+  [Image Link](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
   
-  My LinkedIn profile Link - www.linkedin.com/in/deekshith-maram 
+  [My LinkedIn profile Link](www.linkedin.com/in/deekshith-maram) 
