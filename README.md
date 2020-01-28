@@ -29,7 +29,7 @@
   * Javascript is used to give functionalities to webpages
   * It is used to manipulate DOM elements (Document Object Model)
     
-    Learn about JS functions - https://www.w3schools.com/js/js_functions.asp
+    [Learn about JS functions](https://www.w3schools.com/js/js_functions.asp)
   
   ![alt text](https://pluralsight.imgix.net/paths/path-icons/javascript-36f5949a45.png)
   
@@ -37,7 +37,7 @@
   
   [Image Link](https://pluralsight.imgix.net/paths/path-icons/javascript-36f5949a45.png)
   
-  I wrote a post in medium on my first experience with react native - https://medium.com/magure/my-react-native-app-development-experience-e1fa11eda23b
+  [I wrote a post in medium on my first experience with react native](https://medium.com/magure/my-react-native-app-development-experience-e1fa11eda23b)
   
   ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)
   
