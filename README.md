@@ -8,12 +8,12 @@
    2. CSS
    3. JavaScript
  
- ### HTML(Hypertext Markup Language)
+### HTML(Hypertext Markup Language)
     
   * HTML is the website structure (skeleton)
   * It is used to place positions of the blocks used in the page
   
- ### CSS(Cascading Style Sheets)
+### CSS(Cascading Style Sheets)
   
   * CSS is used to give styles to webpages
   * It can be used to build responsive pages too
