@@ -27,7 +27,7 @@
    
    
   
-  ### JS(JavaScript)
+ ### JS(JavaScript)
   
   * Javascript is used to give functionalities to webpages
   * It is used to manipulate DOM elements (Document Object Model)
